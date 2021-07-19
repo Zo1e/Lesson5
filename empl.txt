@@ -1,0 +1,5 @@
+Petrov 22000
+James 40000
+Gates 10000
+Oblomov 15000
+Sokolov 20000
